@@ -6,6 +6,9 @@
   "homepage": "",
   "license": "ISC",
   "main": "lib/utils.js",
+  "bin": {
+    "study-mycli-dev": "bin/index.js"
+  },
   "directories": {
     "lib": "lib",
     "test": "__tests__"
@@ -22,5 +25,5 @@
   "dependencies": {
     "hammerjs": "^2.0.8"
   },
-  "gitHead": "45bf8b3907fa65f7e5f5b71eefa9ebc0f04c7a3d"
+  "gitHead": "a4f6fb49113944867c6ca9257f95e29793212098"
 }
