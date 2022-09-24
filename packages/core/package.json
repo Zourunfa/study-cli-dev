@@ -1,6 +1,6 @@
 {
   "name": "@study-mycli-dev/core",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "asd",
   "keywords": [
     "weidian"
@@ -23,6 +23,6 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@study-mycli-dev/utils": "^0.0.1"
+    "@study-mycli-dev/utils": "^0.0.2"
   }
 }
