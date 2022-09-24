@@ -1,6 +1,6 @@
 {
   "name": "@study-mycli-dev/core",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "asd",
   "keywords": [
     "weidian"
@@ -23,7 +23,7 @@
     "test": "node ./__tests__/core.test.js"
   },
   "dependencies": {
-    "@study-mycli-dev/utils": "^0.0.5"
+    "@study-mycli-dev/utils": "^0.0.6"
   },
   "gitHead": "911a13f00210055e300dd7df639c277ddf698b62"
 }
