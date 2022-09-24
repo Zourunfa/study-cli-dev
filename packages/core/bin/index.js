@@ -1,3 +1,3 @@
 #!/usr/bin/env node
 
-console.log('study-cli1');
+console.log('study-cli12');
