@@ -1,0 +1,3 @@
+node_modules/
+.idea
+pakages/**/node_modules
