@@ -1,0 +1,4 @@
+50 error Error: Command failed with exit code 128: git push --follow-tags --no-verify --atomic origin master
+50 error fatal: 无法访问 'https://github.com/Zourunfa/study-cli-dev.git/'：Failed to connect to github.com port 443: Operation timed out
+50 error     at makeError (/Users/weidian/.nvm/versions/node/v14.16.1/lib/node_modules/lerna/node_modules/execa/lib/error.js:60:11)
+50 error     at handlePromise (/Users/weidian/.nvm/versions/node/v14.16.1/lib/node_modules/lerna/node_modules/execa/index.js:118:26)
