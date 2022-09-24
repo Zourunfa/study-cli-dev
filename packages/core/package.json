@@ -24,5 +24,6 @@
   },
   "dependencies": {
     "@study-mycli-dev/utils": "^0.0.2"
-  }
+  },
+  "gitHead": "45bf8b3907fa65f7e5f5b71eefa9ebc0f04c7a3d"
 }

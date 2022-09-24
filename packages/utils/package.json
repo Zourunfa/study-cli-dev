@@ -21,5 +21,6 @@
   },
   "dependencies": {
     "hammerjs": "^2.0.8"
-  }
+  },
+  "gitHead": "45bf8b3907fa65f7e5f5b71eefa9ebc0f04c7a3d"
 }
