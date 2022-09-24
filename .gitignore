@@ -1,3 +1,4 @@
 node_modules/
 .idea
 pakages/**/node_modules
+pakages/**/pakage-lock.json
